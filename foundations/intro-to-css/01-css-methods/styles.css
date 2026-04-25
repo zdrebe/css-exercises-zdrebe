@@ -8,17 +8,7 @@ div {
     text-align: center;
 }
 
-p {
-    color: white;
-    background-color: green;
-    
-}
 
-button {
-    background-color: orange;
-}
 
-p, button {
-    font-size: 18px;
-}
+
 
