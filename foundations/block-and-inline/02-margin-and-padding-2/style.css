@@ -1,4 +1,6 @@
-* {margin: 5px;}
+* {margin: 5px;
+  font-size: 16px;
+}
 
 body {
   background: #eee;
@@ -14,6 +16,7 @@ body {
 
 .title {
   background: #e3f4ff;
+  padding: 7px;
 }
 
 .content {
@@ -26,6 +29,7 @@ body {
   background: #e3f4ff;
   padding: 8px 100px;
   display: block;
+  text-align: center;
 }
 
 button {
